@@ -8,8 +8,8 @@ All accounts created are saved in %appdata%/SignupApp/Accounts.json , Instead of
 
 All password created are Hashed before stored as an extra layer of protection.
 
-![Hashed](D:\Godot\SignupApp\Photo\Hashed.PNG)
+![SignupApp/Hashed.PNG at main · phillip8232/SignupApp (github.com)](https://github.com/phillip8232/SignupApp/blob/main/Photo/Hashed.PNG)
 
 **Application Interface**
 
-![Signup](D:\Godot\SignupApp\Photo\Signup.PNG)
+![SignupApp/Signup.PNG at main · phillip8232/SignupApp (github.com)](https://github.com/phillip8232/SignupApp/blob/main/Photo/Signup.PNG)
